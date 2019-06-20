@@ -1,0 +1,6 @@
+DEBUGGER
+-inside code put: debugger
+-when running code add inspect: node inspect app.js add --title=Courses --body=Node.js
+-in Chrome browser: chrome://inspect/#devices
+- run the code ||> blue button
+==============================================
